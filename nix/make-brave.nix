@@ -85,7 +85,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   unzip,
   makeWrapper,
   # command line arguments which are always set e.g "--disable-gpu"
-  commandLineArgs ? "",
+  commandLineArgs ? "--password-store=basic",
   # Necessary for USB audio devices.
   pulseSupport ? stdenv.hostPlatform.isLinux,
   libpulseaudio,

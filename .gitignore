@@ -1,0 +1,10 @@
+/*
+!/
+
+!/.gitignore
+
+!/flake.nix
+!/flake.lock 
+
+!/modules/
+!/nix/
