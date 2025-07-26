@@ -166,14 +166,14 @@
     # Catppuccin Mocha
     # "bkkmolkhemgaeaeggcmfbghljjjoofoh"
     # Dark Reader
-    "eimadpbcbfnmbkopoojfekhnkhdbieeh"
+    # "eimadpbcbfnmbkopoojfekhnkhdbieeh"
     # UBlock Origin
-    "cjpalhdlnbpafiamejdnhcphjbkeiagm"
+    # "cjpalhdlnbpafiamejdnhcphjbkeiagm"
     # I still don't care about cookies
-    "edibdbjcniadpccecjdfdjjppcpchdlm"
+    # "edibdbjcniadpccecjdfdjjppcpchdlm"
     # Sponsorblock
-    "mnjggcdmjocbbbhaepdhchncahnbgone"
+    # "mnjggcdmjocbbbhaepdhchncahnbgone"
     # Decentraleyes
-    "ldpochfccmkkmhdbclfhpagapcfdljkj"
+    # "ldpochfccmkkmhdbclfhpagapcfdljkj"
   ];
 }

@@ -22,7 +22,7 @@
 
     packages = eachSystem (system: let
       pkgs = pkgsFor.${system};
-      timid = import ./modules/default.nix {inherit inputs pkgs;};
+      timid = import ./nix/timid.nix {inherit inputs pkgs;};
     in {
       default = inputs.self.packages.${system}.timid;
 
